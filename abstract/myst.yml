@@ -48,7 +48,7 @@ site:
   template: article-theme
   actions:
     - title: poster
-      url: abstract/presentation/capriotti_2022_eposter.pdf
+      url: presentation/capriotti_2022_eposter.pdf
       static: true
     # - title: slides
     #   url: presentation/SLIDES-NAME.pdf
