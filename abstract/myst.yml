@@ -1,35 +1,38 @@
 version: 1
 project:
-  # id: ubcgif-YEAR-AUTHORS-CONFERENCE
-  # title: TITLE
-  # description: DESCRIPTION
+  id: ubcgif-2022-capriotti-etal-agu
+  title: Linking open source tools for geophysical simulation and inversion in rugged topographies
+  description: Talk presented at NS35B-0388 2022 session
   authors:
-    # - name: AUTHOR 1
-    #   email: EMAIL
-    #   corresponding: true
-    #   orcid: ORCID
-    #   affiliation:
-    #     id: ubc
-    #     name: Geophysical Inversion Facility, University of British Columbia, Vancouver, British Columbia
-    # - name: Lindsey J. Heagy
-    #   email: lheagy@eoas.ubc.ca
-    #   corresponding: true
-    #   orcid: 0000-0002-1551-5926
-    #   affiliation: ubc
-    # - name: Douglas W. Oldenburg
-    #   affiliation: ubc
-    #   email: doug@eos.ubc.ca
-    #   orcid: 0000-0002-4327-2124
+    - name: Joseph Capriotti
+      email: jcapriot@eoas.ubc.ca
+      corresponding: true
+      orcid: 0000-0003-4762-5377
+      affiliation:
+        id: ubc
+        name: Geophysical Inversion Facility, University of British Columbia, Vancouver, British Columbia
+    - name: Johnathan Kuttai
+      affiliation: ubc
+      # email: EMAIL
+      # orcid: ORCID
+    - name: Dominique Fournier
+      affiliation: ubc
+      email: dfournie@eoas.ubc.ca
+      orcid: 0000-0003-3285-3465
+    - name: Lindsey J. Heagy
+      email: lheagy@eoas.ubc.ca
+      orcid: 0000-0002-1551-5926
+      affiliation: ubc
   # banner: banner.png
   thumbnail: thumbnail.png
   # subject: Electromagnetics
   venue:
-    # title: CONFERENCE NAME
-    # url: CONFERENCE URL
+    title: AGU
+    url: https://agu.confex.com/agu/fm22/meetingapp.cgi/Paper/1173504
   # license: CC-BY-4.0
   # open_access: true
   # doi: DOI
-  # date: DATE OF PRESENTATION
+  date: December 14, 2022
   abbreviations:
     # DC: direct current
     # EM: electromagnetics
@@ -44,9 +47,9 @@ project:
 site:
   template: article-theme
   actions:
-    # - title: pdf
-    #   url: ARTICLE-NAME.pdf
-    #   static: true
+    - title: poster
+      url: presentation/capriotti_2022_eposter.pdf
+      static: true
     # - title: slides
     #   url: presentation/SLIDES-NAME.pdf
     #   static: true
