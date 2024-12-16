@@ -2,7 +2,7 @@
 
 _Joseph Capriotti, Johnathan Kuttai, Dominique Fournier and Lindsey J. Heagy_
 
-![thumbnail](./abstract/thumbnail.png)
+![thumbnail](thumbnail.png)
 
 ## Summary 
 
